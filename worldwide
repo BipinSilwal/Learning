@@ -1,0 +1,311 @@
+
+
+<!-- Daraz Mall -->
+
+<div class="container">
+        <div class="row">
+                <h6>Daraz Mall</h6>
+        </div>
+        
+        
+        <div class="row my-5">
+                <div class="col-md-12 d-flex ">
+
+                        <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 18rem; height:15rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology pack of 3 washable Anti.. </p>
+                                  <p class="text-warning">Rs 243</p>
+                                </div>
+                              </div>
+
+
+                </div>
+               
+        </div>
+</div>
+
+<!-- Categories -->
+
+
+<div class="container">
+        <div class="row">
+                <h6>Categories</h6>
+        </div>
+        
+      
+        <div class="row my-5">
+                <div class="col-md-12 d-flex ">
+
+                        <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+                              
+
+
+                </div>
+                <div class="col-md-12 d-flex ">
+
+                        <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+
+                              <div class="card" style="width: 10rem; height:10rem;">
+                                <img class="card-img-top" src="./Images/flash1.jpeg" alt="Card image cap">
+                                <div class="card-body">
+                                
+                                  <p class="card-text navbar1">Japanese technology  </p>
+                                  
+                                </div>
+                              </div>
+                              
+
+
+                </div>
+               
+        </div>
+</div>
+
+<!-- LoadMore -->
+
+
+<div class="container">
+        <div class="row justify-content-center">
+                <div class="col-md-9 d-flex justify-content-center">
+                        <button class="border-info bg-transparent button1 text-primary">Load More</button>
+                </div>
+        </div>
+</div>
+
+
+<!-- Footer -->
+
+<div class="container-fluid my-3">
+        <div class="row world text-white navbar1">
+                <div class="col-md-6">
+                        <ul>
+                                <li class="list-unstyled">Customer Care</li>
+                                <li class="list-unstyled">Help center</li>
+                                <li class="list-unstyled">How to Buy</li>
+                                <li class="list-unstyled">Track your order</li>
+                                <li class="list-unstyled">Return & Refunds</li>
+                                <li class="list-unstyled">Contacts</li>
+                                <li class="list-unstyled">Earn with Daraz</li>
+                                <li class="list-unstyled">Daraz University</li>
+                                <li class="list-unstyled">sell on Daraz</li>
+                                <li class="list-unstyled">code of Conduct</li>
+                        </ul>
+                </div>
+        
+
+        
+                <div class="col-md-6">
+                        <ul>
+                                <li class="list-unstyled">Daraz</li>
+                                <li class="list-unstyled">About daraz</li>
+                                <li class="list-unstyled">Careers</li>
+                                <li class="list-unstyled">Daraz Blog</li>
+                                <li class="list-unstyled">Terms & Conditions</li>
+                                <li class="list-unstyled">Privacy Policy</li>
+                                <li class="list-unstyled">Digital Payments</li>
+                                <li class="list-unstyled">Daraz Customer University</li>
+                                <li class="list-unstyled">Daraz Affiliate Program</li>
+                                
+                        </ul>
+                </div>
+        </div>
+        
+
+        <div class="row">
+                <div class="col-md-12">
+                        <ul class="d-flex justify-content-around">
+                                <li class="list-unstyled">Payment Methods</li>
+                                <li class="list-unstyled">Daraz International</li>
+                                <li class="list-unstyled">Follow Us</li>
+                                <li class="list-unstyled">Verified by</li>
+                                
+                        </ul>
+                </div>
+                <div class="col-md-12 py-5 mx-5">
+                       <p class="h6">© Daraz 2021</p>
+                </div>
+        </div>
+
+       
+
+
+
+
